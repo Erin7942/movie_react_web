@@ -59,8 +59,8 @@ function Index() {
 									</a>
 								</div>
 								<div class="tel">
-									<a href="tel:test">
-										<i class="material-icons">phone in talk</i> 0330  123 4567
+									<a href="tel:67033012345">
+										<i class="material-icons">phone in talk</i> test
 									</a>
 								</div>
 							</div>
